@@ -1,4 +1,4 @@
-# TFG
+# TFG 
 
 Proyecto Final de Grado desarrollado por Ángela Cuenca.
 
@@ -29,3 +29,8 @@ npm run dev
 ## Autor
 
 Ángela Cuenca
+
+
+## Tutor
+
+Ezequiel Valero La Fuente
